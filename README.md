@@ -20,5 +20,6 @@ The program present the some principles in OOP - Encapsulation,Abstraction and c
 
 The program present all basic principles in OOP design  - Encapsulation,Abstraction,Inheritance,Polymorphism and creation of HTML files.
 
+### More OOP
 
-
+[Task](./More%20OOP/Task.pdf)
