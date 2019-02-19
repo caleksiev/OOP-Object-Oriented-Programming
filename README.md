@@ -16,5 +16,7 @@ The program present the basic principle in OOP - Encapsulation,Abstraction and c
 
 ### Advanced OOP
 
+[Task](./Advanced%20OOP/Task.pdf)
+
 
 
