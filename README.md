@@ -28,4 +28,8 @@ A little about operator overloading and templates.
 
 ### Project HTML
 
+[Task](./Project%20HTML/Task.pdf)
+
 A big project, that show all I've learned in the course.
+
+
