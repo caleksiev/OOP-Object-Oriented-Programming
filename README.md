@@ -25,3 +25,7 @@ The program present all basic principles in OOP design  - Encapsulation,Abstract
 [Task](./More%20OOP/Task.pdf)
 
 A little about operator overloading and templates.
+
+### Project
+
+A big project, that show all I've learned in the course.
