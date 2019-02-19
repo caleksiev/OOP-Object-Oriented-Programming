@@ -6,7 +6,7 @@
 
 [Task](./Files/Task.pdf)
 
-The program demonstrates the work with structures and a possible way to manage files in C++.
+The program demonstrates the work with structures and a possible way to manage files using "fstream" library.
 
 ### Basic OOP
 
@@ -23,3 +23,5 @@ The program present all basic principles in OOP design  - Encapsulation,Abstract
 ### More OOP
 
 [Task](./More%20OOP/Task.pdf)
+
+A little about operator overloading and templates
