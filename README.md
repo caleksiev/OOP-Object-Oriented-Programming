@@ -10,7 +10,7 @@ The program demonstrates the work with structures and a possible way to manage f
 
 ### Basic OOP
 
-[Task](./"Basic%20OOP"/Task.pdf)
+[Task](.Basic%20OOP/Task.pdf)
 
 The program present the basic principle in OOP - Encapsulation,Abstraction and creation of files in MarkDown format.
 
