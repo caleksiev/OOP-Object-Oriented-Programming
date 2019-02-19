@@ -10,5 +10,5 @@ The program demonstrates the work with structures and a possible way to manage f
 
 ### Basic OOP
 
-[Task](./Basic OOP/Task.pdf)
+[Task](./Basic-OOP/Task.pdf)
 
