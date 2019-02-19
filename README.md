@@ -26,6 +26,6 @@ The program present all basic principles in OOP design  - Encapsulation,Abstract
 
 A little about operator overloading and templates.
 
-### Project
+### Project HTML
 
 A big project, that show all I've learned in the course.
