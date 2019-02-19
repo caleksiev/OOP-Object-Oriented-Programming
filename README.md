@@ -12,11 +12,13 @@ The program demonstrates the work with structures and a possible way to manage f
 
 [Task](./Basic%20OOP/Task.pdf)
 
-The program present the basic principle in OOP - Encapsulation,Abstraction and creation of files in MarkDown format.
+The program present the some principles in OOP - Encapsulation,Abstraction and creation of files in MarkDown format.
 
 ### Advanced OOP
 
 [Task](./Advanced%20OOP/Task.pdf)
+
+The program present all basic principles in OOP design  - Encapsulation,Abstraction,Inheritance,Polymorphism, and creation of HTML files.
 
 
 
